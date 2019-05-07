@@ -1,5 +1,1 @@
-hello git
-<<<<<<< HEAD
-=======
-hello from two
->>>>>>> two
+hi
